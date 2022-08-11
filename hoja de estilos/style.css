@@ -304,29 +304,4 @@ article{
     color: #744fc6;
 }
 
-.img-tam{
-    width: auto;
-    height: auto;
-}
-
-.card-text{
-    color: #744fc6;
-    font-size: 12pt;
-}
-
-.card{
-    justify-content: center;
-    padding-top: 5%;
-    border:none;
-}
-
-.cont-form{
-    width: 50%;
-    height: 60%;
-    justify-content: center;
-}
-.titulo2{
-    width: auto;
-    height: auto;
-    background-color: #f3a5bc;
-}
+/*# sourceMappingURL=style.css.map */
